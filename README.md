@@ -1,5 +1,3 @@
-# 3005
-3005 Final Project
 Members:
 Allows the member to log in using name, email, and password. They are able to input FitGoals, Health Metrics, and Loyalty Points.
 
